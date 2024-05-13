@@ -7,3 +7,9 @@
 [submodule "database"]
 	path = database
 	url = git@github.com:webforeman/files-database.git
+[submodule "inmemory"]
+	path = inmemory
+	url = git@github.com:webforeman/files-inmemory.git
+[submodule "proxy"]
+	path = proxy
+	url = git@github.com:webforeman/proxy.git
