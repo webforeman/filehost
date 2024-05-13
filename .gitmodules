@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:webforeman/files-api.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:webforeman/files-frontend.git
+[submodule "database"]
+	path = database
+	url = git@github.com:webforeman/files-database.git
