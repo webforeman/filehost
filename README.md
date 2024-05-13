@@ -5,6 +5,7 @@
 ```bash
 # Clone repo with submodules
 git clone --recurse-submodules git@github.com:webforeman/filehost.git
+# Go to project and create environment variables
 cd filehost
 cp example.env .env
 
