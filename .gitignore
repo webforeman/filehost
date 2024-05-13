@@ -1,0 +1,6 @@
+proxy/nginx/certs
+.env
+INSTRUCTION.md
+TASK.md
+TODO.md
+.DS_Store
